@@ -14,7 +14,8 @@ Posto isso, vimos a precariedade da divulgação de tais eventos de baixa expres
 #### Apresentação do projeto: https://www.youtube.com/watch?v=M-SM-DGXi40&t=42s
 
 ## Layout mobile
-![Mobile1](https://user-images.githubusercontent.com/77205472/104108760-09f48280-52a6-11eb-8383-b10cbfe2aa21.jpg)
+![Mobile1](https://user-images.githubusercontent.com/77205472/104108760-09f48280-52a6-11eb-8383-b10cbfe2aa21.jpg)    ![Mobile2](https://user-images.githubusercontent.com/77205472/104109353-c1d85e80-52ab-11eb-94db-7049aa1d4acf.jpg)
+
 
 
 ## Monografia
