@@ -22,15 +22,15 @@ Posto isso, vimos a precariedade da divulgação de tais eventos de baixa expres
 
 
 ## Monografia
-  A monografia abaixo apresenta todas as referências, pesquisas, e entrevistas de campo feita pela nossa equipe durante o desenvolvimento do projeto. Além de documentar toda a arquitetura do sistema, monstrando: diagramas, banco de dados e codígos.
+  A monografia abaixo apresenta todas as referências, pesquisas e entrevistas de campo feita pela nossa equipe durante o desenvolvimento do projeto. Além de documentar toda a arquitetura do sistema, monstrando: diagramas, banco de dados e codígos.
   
   [monografia.docx](https://github.com/Giovanna-Manfredo/aplicativo-de-eventos-culturama/files/5791849/monografia.final.docx)
 
 
 ## Fundadores do Projeto
 
-- Giovanna Cândido Manfredo
-- Geovanna Moraes Nogueira
+- Giovanna Cândido Manfredo 
+- Geovanna Moraes Nogueira 
 - Marcos Murilo Alves Santos
 - Pedro Paulo Arimura
 - Safira Rosa dos Santos
